@@ -1,0 +1,244 @@
+---
+import type { Company } from "../types";
+
+interface Props {
+  company: Company;
+}
+
+const { company } = Astro.props;
+
+// Format launch date
+const launchDate = company.launched_at
+  ? new Date(company.launched_at * 1000).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : "Unknown";
+
+// Get primary industry or first from array
+const primaryIndustry =
+  company.industry || (company.industries && company.industries[0]) || "";
+---
+
+<div
+  class="company-card border border-transparent py-2 px-3 cursor-pointer hover:border-yc-border transition-colors duration-150 rounded-md"
+  data-company-name={company.name}
+>
+  <!-- Compact View -->
+  <div class="company-compact">
+    <div class="flex items-center gap-2.5">
+      <!-- Logo -->
+      {
+        company.small_logo_thumb_url &&
+        !company.small_logo_thumb_url.includes("missing.png") ? (
+          <img
+            src={company.small_logo_thumb_url}
+            alt={`${company.name} logo`}
+            class="size-8 object-cover rounded-xs"
+            loading="lazy"
+          />
+        ) : (
+          <div class="size-8 flex items-center justify-center text-white text-xs font-semibold bg-gray-400 rounded-xs">
+            {company.name.substring(0, 1).toUpperCase()}
+          </div>
+        )
+      }
+
+      <!-- Content -->
+      <div class="flex-1 min-w-0">
+        <h3
+          class="font-semibold mb-0.5 leading-tight text-yc-text text-sm truncate"
+        >
+          {company.name}
+        </h3>
+
+        <div class="text-xs text-yc-text/50">
+          {company.batch}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Expanded View -->
+  <div class="company-expanded hidden">
+    <div class="space-y-2">
+      <div class="flex items-center gap-2.5">
+        <!-- Logo -->
+        {
+          company.small_logo_thumb_url &&
+          !company.small_logo_thumb_url.includes("missing.png") ? (
+            <img
+              src={company.small_logo_thumb_url}
+              alt={`${company.name} logo`}
+              class="size-8 object-cover rounded-xs"
+            />
+          ) : (
+            <div class="size-8 flex items-center justify-center text-white text-xs font-semibold bg-gray-400 rounded-xs">
+              {company.name.substring(0, 1).toUpperCase()}
+            </div>
+          )
+        }
+
+        <!-- Header -->
+        <div>
+          <h3
+            class="font-semibold mb-0.5 leading-tight text-yc-text text-sm truncate"
+          >
+            {company.name}
+          </h3>
+          <div class="text-xs text-yc-text/50">
+            {company.batch}
+          </div>
+        </div>
+      </div>
+
+      <!-- Status pill -->
+      {
+        company.status && (
+          <span class="inline-flex items-center gap-1.5 px-1.5 py-px rounded bg-transparent text-xs text-yc-text/70 border border-red-500/40 font-medium">
+            <span class="size-1.5 rounded-full bg-red-500" />
+            {company.status}
+          </span>
+        )
+      }
+
+      <!-- One-liner -->
+      {
+        company.one_liner && (
+          <p class="text-xs text-yc-text/60">{company.one_liner}</p>
+        )
+      }
+
+      <!-- Long description -->
+      {
+        company.long_description && (
+          <p class="text-xs text-yc-text/50 line-clamp-4">
+            {company.long_description}
+          </p>
+        )
+      }
+
+      <!-- Key-value details -->
+      <div class="space-y-1 text-xs">
+        {
+          company.website && (
+            <div class="flex gap-2">
+              <span class="text-yc-text/40 min-w-15">Website</span>
+              <a
+                href={
+                  company.website.startsWith("http")
+                    ? company.website
+                    : `https://${company.website}`
+                }
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-yc-text/60 hover:underline truncate"
+              >
+                {(() => {
+                  try {
+                    return new URL(
+                      company.website.startsWith("http")
+                        ? company.website
+                        : `https://${company.website}`,
+                    ).hostname.replace("www.", "");
+                  } catch {
+                    return company.website;
+                  }
+                })()}
+              </a>
+            </div>
+          )
+        }
+
+        {
+          company.team_size && (
+            <div class="flex gap-2">
+              <span class="text-yc-text/40 min-w-15">Team</span>
+              <span class="text-yc-text/60">{company.team_size}</span>
+            </div>
+          )
+        }
+
+        {
+          company.launched_at && (
+            <div class="flex gap-2">
+              <span class="text-yc-text/40 min-w-15">Launched</span>
+              <span class="text-yc-text/60">{launchDate}</span>
+            </div>
+          )
+        }
+
+        {
+          company.former_names && company.former_names.length > 0 && (
+            <div class="flex gap-2">
+              <span class="text-yc-text/40 min-w-15">Formerly</span>
+              <span class="text-yc-text/60">
+                {company.former_names.join(", ")}
+              </span>
+            </div>
+          )
+        }
+      </div>
+
+      <!-- Industries & Tags -->
+      {
+        company.industries && company.industries.length > 0 && (
+          <div class="flex flex-wrap gap-1">
+            {company.industries.slice(0, 5).map((industry) => (
+              <span class="inline-flex items-center px-1.5 py-px rounded bg-yc-text/5 text-xs text-yc-text/60 border border-yc-text/10">
+                {industry}
+              </span>
+            ))}
+          </div>
+        )
+      }
+
+      <!-- YC Link -->
+      {
+        company.slug && (
+          <div>
+            <a
+              href={`https://www.ycombinator.com/companies/${company.slug}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-xs text-yc-text/50 hover:underline"
+            >
+              View on YC →
+            </a>
+          </div>
+        )
+      }
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const cards = document.querySelectorAll(".company-card");
+
+    cards.forEach((card) => {
+      const compact = card.querySelector(".company-compact");
+      const expanded = card.querySelector(".company-expanded");
+
+      let isExpanded = false;
+
+      card.addEventListener("click", (e) => {
+        // Don't toggle if clicking on a link in expanded view
+        if (isExpanded && (e.target as HTMLElement).tagName === "A") {
+          return;
+        }
+
+        isExpanded = !isExpanded;
+
+        if (isExpanded) {
+          compact?.classList.add("hidden");
+          expanded?.classList.remove("hidden");
+        } else {
+          expanded?.classList.add("hidden");
+          compact?.classList.remove("hidden");
+        }
+      });
+    });
+  });
+</script>

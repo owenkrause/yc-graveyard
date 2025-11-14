@@ -1,0 +1,22 @@
+{
+  "name": "yc-graveyard",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "fetch-data": "tsx scripts/fetch-companies.ts"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "^9.0.0",
+    "@tailwindcss/vite": "^4.1.17",
+    "@vercel/analytics": "^1.5.0",
+    "astro": "^5.15.6",
+    "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6"
+  }
+}

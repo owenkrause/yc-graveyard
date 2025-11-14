@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yc-orange: #ff6600;
+  --color-yc-bg: #f5f5ed;
+  --color-yc-text: #1a1a1a;
+  --color-yc-border: #1a1a1a;
+
+  --font-family-sans:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}

@@ -1,0 +1,95 @@
+---
+import Analytics from "@vercel/analytics/astro";
+import "../styles/global.css";
+import companies from "../data/companies.json";
+import stats from "../data/stats.json";
+import CompanyCard from "../components/CompanyCard.astro";
+import type { Company } from "../types";
+
+const typedCompanies = companies as Company[];
+
+const lastUpdated = new Date(stats.last_updated).toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<!doctype html>
+<html lang="en" class="bg-yc-bg">
+  <head>
+    <meta charset="utf-8" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/favicon.png" /> -->
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>YC Graveyard</title>
+    <meta
+      name="description"
+      content={`A memorial to ${stats.total_inactive} inactive Y Combinator startups.`}
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="YC Graveyard" />
+    <meta
+      property="og:description"
+      content={`${stats.total_inactive} inactive Y Combinator startups from ${stats.batches_count} batches`}
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="YC Graveyard" />
+    <meta
+      name="twitter:description"
+      content={`${stats.total_inactive} inactive Y Combinator startups`}
+    />
+    <Analytics />
+  </head>
+  <body class="font-sans text-yc-text bg-yc-bg">
+    <!-- Header -->
+    <header class="pt-12">
+      <div class="max-w-350 mx-auto px-8">
+        <h1 class="text-2xl font-bold mb-4 text-yc-orange">🪦 YC Graveyard</h1>
+        <div class="text-base text-yc-text/70">
+          <span class="text-yc-orange font-semibold"
+            >{stats.total_inactive}</span
+          > inactive startups from <span class="text-yc-orange font-semibold"
+            >{stats.batches_count}</span
+          > batches
+        </div>
+        <div class="text-xs text-yc-text/50 pt-1">
+          Last updated: {lastUpdated}
+        </div>
+      </div>
+    </header>
+
+    <!-- Companies Grid -->
+    <main class="max-w-350 mx-auto px-8 py-12">
+      <div
+        class="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-4 items-start"
+      >
+        {typedCompanies.map((company) => <CompanyCard company={company} />)}
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="max-w-350 pb-8">
+      <div
+        class="border-t border-yc-text/10 pt-8 text-center text-sm text-yc-text/50"
+      >
+        <p class="mb-2">
+          made it to the end? follow me on X{" "}
+          <a
+            href="https://x.com/oh1hn"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-yc-orange hover:underline transition-colors"
+          >
+            @oh1hn
+          </a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
