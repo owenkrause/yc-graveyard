@@ -12107,6 +12107,91 @@
     }
   },
   {
+    "id": 25472,
+    "name": "Ozone",
+    "slug": "ozone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91e83d954beb45df9be14abf04cf2403d8a8572c.png",
+    "website": "https://ozone.pro",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ozone is the world’s first collaborative video editor in the cloud. We are making the world a more creative place by building the next generation of creative tools.",
+    "one_liner": "Figma for video",
+    "team_size": 8,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1648660054,
+    "tags": [
+      "Productivity",
+      "Collaboration",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "25472",
+    "_highlightResult": {
+      "name": {
+        "value": "Ozone",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://ozone.pro",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Ozone is the world’s first collaborative video editor in the cloud. We are making the world a more creative place by building the next generation of creative tools.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Figma for video",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Productivity",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Collaboration",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Design Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 25404,
     "name": "Castia",
     "slug": "castia",
@@ -16998,7 +17083,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7992570619d05ec7bff0789242805495d444dbf5.png",
     "website": "https://firstquadrant.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
     "one_liner": "Sales AI that helps revenue teams move faster and close more deals.",
     "team_size": 2,
@@ -17026,7 +17111,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -17058,7 +17143,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "San Francisco, CA, USA; Remote",
+        "value": "San Francisco, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
