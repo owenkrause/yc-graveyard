@@ -19275,6 +19275,92 @@
     }
   },
   {
+    "id": 23269,
+    "name": "Lunatic",
+    "slug": "lunatic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbb6c762083b33171aef62dcf59e9b3e7d3113b.png",
+    "website": "https://lunatic.solutions/",
+    "all_locations": "Vienna, Vienna, Austria; Remote",
+    "long_description": "At the core of the company there is Lunatic, a runtime for developing low latency, robust and distributed networking applications. It can be used for web applications, game servers, video and voice chat, or other apps requiring low latency runtimes. Lunatic borrows many proven ideas from Go and Erlang, but also uses WebAssembly to make it easier targetable from existing languages, allowing teams to leverage already existing code and libraries.",
+    "one_liner": "Operating System for server-side apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1614684891,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Austria",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "23269",
+    "_highlightResult": {
+      "name": {
+        "value": "Lunatic",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://lunatic.solutions/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Vienna, Vienna, Austria; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "At the core of the company there is Lunatic, a runtime for developing low latency, robust and distributed networking applications. It can be used for web applications, game servers, video and voice chat, or other apps requiring low latency runtimes. Lunatic borrows many proven ideas from Go and Erlang, but also uses WebAssembly to make it easier targetable from existing languages, allowing teams to leverage already existing code and libraries.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Operating System for server-side apps",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Developer Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Open Source",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 23264,
     "name": "Eat Blueprint",
     "slug": "eat-blueprint",
@@ -36238,6 +36324,107 @@
         },
         {
           "value": "Enterprise",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 12264,
+    "name": "Frubana Inc",
+    "slug": "frubana-inc",
+    "former_names": [
+      "Frubana Inc",
+      "Frubana"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de610cdaa1b45fc16f2be037082405d108ec145d.png",
+    "website": "https://www.frubana.com",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "",
+    "one_liner": "The everything store for restaurants in LATAM.",
+    "team_size": 384,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1543988071,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "objectID": "12264",
+    "_highlightResult": {
+      "name": {
+        "value": "Frubana Inc",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Frubana Inc",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Frubana",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.frubana.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "São Paulo, SP, Brazil",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The everything store for restaurants in LATAM.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Logistics",
           "matchLevel": "none",
           "matchedWords": []
         }
