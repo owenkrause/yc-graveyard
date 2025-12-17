@@ -6694,6 +6694,100 @@
     }
   },
   {
+    "id": 27687,
+    "name": "Layup",
+    "slug": "layup",
+    "former_names": [
+      "Regular"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d162414e7da7d9f7f180a8019180442aee9578fb.png",
+    "website": "http://www.layuplabs.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
+    "one_liner": "Guide your users. Right in your product.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1673145828,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "27687",
+    "_highlightResult": {
+      "name": {
+        "value": "Layup",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Regular",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "http://www.layuplabs.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "New York, NY, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Guide your users. Right in your product.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27684,
     "name": "Struct",
     "slug": "struct",
@@ -32202,6 +32296,120 @@
     }
   },
   {
+    "id": 12638,
+    "name": "Milo",
+    "slug": "milo",
+    "former_names": [
+      "Rosey",
+      "The Modern Village",
+      "Modern Village",
+      "Milo by Modern Village"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f077c8b6cd781f4ee1702dc34cee59ceb845e8bd.png",
+    "website": "http://www.joinmilo.com",
+    "all_locations": "San Francisco, CA, USA; Vancouver, BC, Canada; Seattle, WA, USA",
+    "long_description": "Milo is the Family AI. We give busy parents back time + mindshare by tackling the daily details with a behind the scenes co-pilot. By pairing a human in the loop with the latest in LLM capabilities we're able to effectively build a copilot for detailed, high context and noisy tasks, via a simple conversational SMS interface.",
+    "one_liner": "The Family AI - a copilot for parents to tackle the invisible load of…",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1584247822,
+    "tags": [
+      "Artificial Intelligence",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "12638",
+    "_highlightResult": {
+      "name": {
+        "value": "Milo",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Rosey",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "The Modern Village",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Modern Village",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Milo by Modern Village",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "http://www.joinmilo.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA; Vancouver, BC, Canada; Seattle, WA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Milo is the Family AI. We give busy parents back time + mindshare by tackling the daily details with a behind the scenes co-pilot. By pairing a human in the loop with the latest in LLM capabilities we're able to effectively build a copilot for detailed, high context and noisy tasks, via a simple conversational SMS interface.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The Family AI - a copilot for parents to tackle the invisible load of…",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Conversational AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI Assistant",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 1880,
     "name": "Elpha",
     "slug": "elpha",
@@ -52189,6 +52397,95 @@
         },
         {
           "value": "Healthcare",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 1243,
+    "name": "Kenota (formerly ExVivo Labs)",
+    "slug": "kenota",
+    "former_names": [
+      "ExVivo Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e389cbf09ff94eb9242f60bd9522b162a2464ff.png",
+    "website": "https://kenota.com/",
+    "all_locations": "Kitchener, ON, Canada",
+    "long_description": "",
+    "one_liner": "Kenota is revolutionizing the way we test for disease ",
+    "team_size": 35,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1461643818,
+    "tags": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2016",
+    "status": "Inactive",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "1243",
+    "_highlightResult": {
+      "name": {
+        "value": "Kenota (formerly ExVivo Labs)",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "ExVivo Labs",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://kenota.com/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Kitchener, ON, Canada",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Kenota is revolutionizing the way we test for disease ",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Healthcare",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Diagnostics",
           "matchLevel": "none",
           "matchedWords": []
         }
