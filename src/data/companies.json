@@ -16438,6 +16438,94 @@
     }
   },
   {
+    "id": 24167,
+    "name": "Kindamagical",
+    "slug": "kindamagical",
+    "former_names": [
+      "Howdy",
+      "Pano"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a9c79dac3c9f7267080966bb57a5b86525bfe43.png",
+    "website": "https://www.kindamagical.com",
+    "all_locations": "Mill Valley, CA, USA; Remote",
+    "long_description": "Kindamagical is a recording + editing studio for making product content. We help users record, produce, and share product GIFs in minutes, that would otherwise take hours to produce with traditional tools.",
+    "one_liner": "Create + share amazing product GIFs in minutes ⚡️",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1645711662,
+    "tags": [
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "24167",
+    "_highlightResult": {
+      "name": {
+        "value": "Kindamagical",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Howdy",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Pano",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.kindamagical.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Mill Valley, CA, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Kindamagical is a recording + editing studio for making product content. We help users record, produce, and share product GIFs in minutes, that would otherwise take hours to produce with traditional tools.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Create + share amazing product GIFs in minutes ⚡️",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Design Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 24163,
     "name": "Commery",
     "slug": "commery",
@@ -52439,7 +52527,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
