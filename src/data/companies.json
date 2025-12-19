@@ -10154,6 +10154,95 @@
     }
   },
   {
+    "id": 26253,
+    "name": "AiSupervision",
+    "slug": "aisupervision",
+    "former_names": [
+      "AISuperVision"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ef38ec95af8ac6ef83269792c5ba62d68d01e59.png",
+    "website": "https://www.aisupervision.com",
+    "all_locations": "Mannheim, BW, Germany",
+    "long_description": "We make the operating system to track, manage and improve production in factories with many workers. We automate what the best supervisors would do if they watched everything that’s happening inside your factory.",
+    "one_liner": "The operating system for factory production lines",
+    "team_size": 13,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1645099380,
+    "tags": [
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "objectID": "26253",
+    "_highlightResult": {
+      "name": {
+        "value": "AiSupervision",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "AISuperVision",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.aisupervision.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Mannheim, BW, Germany",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "We make the operating system to track, manage and improve production in factories with many workers. We automate what the best supervisors would do if they watched everything that’s happening inside your factory.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The operating system for factory production lines",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Manufacturing",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Industrial",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 26238,
     "name": "Flike",
     "slug": "flike",
@@ -18944,80 +19033,6 @@
       "tags": [
         {
           "value": "Payments",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      ]
-    }
-  },
-  {
-    "id": 23434,
-    "name": "Broad",
-    "slug": "broad",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4db2474262802865fe1aa9cf299865700280ea6e.png",
-    "website": "http://www.broad.app",
-    "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "Broad is building global financial products that enable life without borders.",
-    "one_liner": "The multicurrency account and card for Brazilians",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1614182017,
-    "tags": [
-      "Fintech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Inactive",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "objectID": "23434",
-    "_highlightResult": {
-      "name": {
-        "value": "Broad",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "website": {
-        "value": "http://www.broad.app",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "all_locations": {
-        "value": "London, England, United Kingdom; Remote",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "long_description": {
-        "value": "Broad is building global financial products that enable life without borders.",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "one_liner": {
-        "value": "The multicurrency account and card for Brazilians",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "tags": [
-        {
-          "value": "Fintech",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -35795,6 +35810,107 @@
         },
         {
           "value": "Media",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 12507,
+    "name": "Playground",
+    "slug": "playground",
+    "former_names": [
+      "Mighty Computing",
+      "Mighty",
+      "Playground AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c81f0b3bef0891de69a8a04f8130fc26d47d3107.png",
+    "website": "https://playground.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Playground combines AI research and product design to invent new kinds of creative tools.",
+    "one_liner": "Make graphics like a Pro without being one",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1553817472,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "12507",
+    "_highlightResult": {
+      "name": {
+        "value": "Playground",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Mighty Computing",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Mighty",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Playground AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://playground.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Playground combines AI research and product design to invent new kinds of creative tools.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Make graphics like a Pro without being one",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Generative AI",
           "matchLevel": "none",
           "matchedWords": []
         }
