@@ -517,11 +517,11 @@
     "subindustry": "B2B",
     "launched_at": 1721862703,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -602,11 +602,6 @@
       },
       "tags": [
         {
-          "value": "Artificial Intelligence",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        {
           "value": "SaaS",
           "matchLevel": "none",
           "matchedWords": []
@@ -623,6 +618,11 @@
         },
         {
           "value": "Insurance",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI",
           "matchLevel": "none",
           "matchedWords": []
         }
