@@ -7151,6 +7151,95 @@
     }
   },
   {
+    "id": 27201,
+    "name": "Lavo Life Sciences",
+    "slug": "lavo-life-sciences",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590ccfba5d4f0f97ed00fd962f2fdea307dbea2f.png",
+    "website": "https://www.lavo.ai/",
+    "all_locations": "",
+    "long_description": "Lavo Life Sciences runs simulations of drug molecules on computers. Pharma companies use these simulations to guide their experiments and ultimately save time and money in the lab. This will de-risk and expedite clinical trials and FDA approval.",
+    "one_liner": "AI for drug formulation",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1674082073,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "Biotech",
+      "Drug discovery"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "27201",
+    "_highlightResult": {
+      "name": {
+        "value": "Lavo Life Sciences",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.lavo.ai/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Lavo Life Sciences runs simulations of drug molecules on computers. Pharma companies use these simulations to guide their experiments and ultimately save time and money in the lab. This will de-risk and expedite clinical trials and FDA approval.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "AI for drug formulation",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "AI-powered Drug Discovery",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Machine Learning",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Biotech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Drug discovery",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27264,
     "name": "Dev Tools AI",
     "slug": "dev-tools-ai",
@@ -25383,7 +25472,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
