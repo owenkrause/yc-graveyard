@@ -496,6 +496,98 @@
     }
   },
   {
+    "id": 30016,
+    "name": "Zeroframe",
+    "slug": "zeroframe",
+    "former_names": [
+      "Andoria AI",
+      "Andoria"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e936e66c47aaa18d5b9994edfdeb20a8146b9b4.png",
+    "website": "https://zeroframe.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Pushing the boundaries of AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730323819,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "30016",
+    "_highlightResult": {
+      "name": {
+        "value": "Zeroframe",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Andoria AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Andoria",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://zeroframe.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Pushing the boundaries of AI",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Machine Learning",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 29793,
     "name": "RiskAngle",
     "slug": "riskangle",
@@ -885,6 +977,104 @@
     }
   },
   {
+    "id": 29459,
+    "name": "Lumona",
+    "slug": "lumona",
+    "former_names": [
+      "Scout"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d72c3d83183445e4992cb58763a5f76c303afd5.png",
+    "website": "https://www.lumona.ai",
+    "all_locations": "Cambridge, MA, USA",
+    "long_description": "Lumona is an AI-enabled search engine featuring insights from social media. When you’re looking to buy a new phone, instead of adding reddit to the end of your search and opening tabs of threads that take forever to get through, you can search on Lumona to get all of that processed for you on one page so you can make the best decision while saving time.",
+    "one_liner": "AI-enabled search engine featuring insights from social media.",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1704065772,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Inactive",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "29459",
+    "_highlightResult": {
+      "name": {
+        "value": "Lumona",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Scout",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.lumona.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Cambridge, MA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Lumona is an AI-enabled search engine featuring insights from social media. When you’re looking to buy a new phone, instead of adding reddit to the end of your search and opening tabs of threads that take forever to get through, you can search on Lumona to get all of that processed for you on one page so you can make the best decision while saving time.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "AI-enabled search engine featuring insights from social media.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Generative AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Search",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
@@ -989,6 +1179,69 @@
           "matchedWords": []
         }
       ]
+    }
+  },
+  {
+    "id": 29430,
+    "name": "BiteSight",
+    "slug": "bitesight",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/271fe2b65b962c0591e8700c14d977ce6c108e5c.png",
+    "website": "http://bitesight.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "BiteSight shows users videos of food we think they will love from nearby restaurants and delivers it right to their door. \r\n\r\nZac and Lucious studied together at UT Austin. Zac did CS and AI Research, and Lucious built his first $1M ARR product while moonlighting at a YC startup at age 19..\r\n\r\nUberEats and DoorDash have become cluttered and impersonal super apps. They've created a $30B opportunity for a delivery app that puts the customer experience first by combining high-quality videos, recommendations, and social proof from your most trusted food critics - your friends.",
+    "one_liner": "The video-first food delivery app. Imagine TikTok meets DoorDash.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1708458900,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "29430",
+    "_highlightResult": {
+      "name": {
+        "value": "BiteSight",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "http://bitesight.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "New York, NY, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "BiteSight shows users videos of food we think they will love from nearby restaurants and delivers it right to their door. \r\n\r\nZac and Lucious studied together at UT Austin. Zac did CS and AI Research, and Lucious built his first $1M ARR product while moonlighting at a YC startup at age 19..\r\n\r\nUberEats and DoorDash have become cluttered and impersonal super apps. They've created a $30B opportunity for a delivery app that puts the customer experience first by combining high-quality videos, recommendations, and social proof from your most trusted food critics - your friends.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The video-first food delivery app. Imagine TikTok meets DoorDash.",
+        "matchLevel": "none",
+        "matchedWords": []
+      }
     }
   },
   {
