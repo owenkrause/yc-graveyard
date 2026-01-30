@@ -11023,6 +11023,100 @@
     }
   },
   {
+    "id": 26042,
+    "name": "Pigeon",
+    "slug": "pigeon-2",
+    "former_names": [
+      "Pigeon Loans"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png",
+    "website": "https://www.usepigeon.io",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "Pigeon is a relationship based technology platform that facilitates the creation and management of loans between friends, family, loved ones, and anyone who trusts one another.\r\n\r\nBy providing smarter ways for people to mix money with their relationships, Pigeon seeks to empower individuals to borrow and lend money with the people they trust.",
+    "one_liner": "Simplifying loans with your friends & family.",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1643783750,
+    "tags": [
+      "Fintech",
+      "Consumer",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "26042",
+    "_highlightResult": {
+      "name": {
+        "value": "Pigeon",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Pigeon Loans",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.usepigeon.io",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Miami, FL, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Pigeon is a relationship based technology platform that facilitates the creation and management of loans between friends, family, loved ones, and anyone who trusts one another.\r\n\r\nBy providing smarter ways for people to mix money with their relationships, Pigeon seeks to empower individuals to borrow and lend money with the people they trust.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Simplifying loans with your friends & family.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "LegalTech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 25966,
     "name": "Sendo",
     "slug": "sendo",
