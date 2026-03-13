@@ -41,58 +41,24 @@ const ALGOLIA_HEADERS = {
     "Algolia for JavaScript (3.35.1); Browser; JS Helper (3.16.1)",
   "x-algolia-application-id": "45BWZJ1SGC",
   "x-algolia-api-key":
-    "MjBjYjRiMzY0NzdhZWY0NjExY2NhZjYxMGIxYjc2MTAwNWFkNTkwNTc4NjgxYjU0YzFhYTY2ZGQ5OGY5NDMxZnJlc3RyaWN0SW5kaWNlcz0lNUIlMjJZQ0NvbXBhbnlfcHJvZHVjdGlvbiUyMiUyQyUyMllDQ29tcGFueV9CeV9MYXVuY2hfRGF0ZV9wcm9kdWN0aW9uJTIyJTVEJnRhZ0ZpbHRlcnM9JTVCJTIyeWNkY19wdWJsaWMlMjIlNUQmYW5hbHl0aWNzVGFncz0lNUIlMjJ5Y2RjJTIyJTVE",
+    "NzllNTY5MzJiZGM2OTY2ZTQwMDEzOTNhYWZiZGRjODlhYzVkNjBmOGRjNzJiMWM4ZTU0ZDlhYTZjOTJiMjlhMWFuYWx5dGljc1RhZ3M9eWNkYyZyZXN0cmljdEluZGljZXM9WUNDb21wYW55X3Byb2R1Y3Rpb24lMkNZQ0NvbXBhbnlfQnlfTGF1bmNoX0RhdGVfcHJvZHVjdGlvbiZ0YWdGaWx0ZXJzPSU1QiUyMnljZGNfcHVibGljJTIyJTVE",
   "Content-Type": "application/json",
 };
 
-// All YC batches with their expected company counts
+// Auto-generate all YC batches from Summer 2005 to the current year
 function generateBatches(): string[] {
-  return [
-    "Fall 2025",
-    "Summer 2025",
-    "Spring 2025",
-    "Winter 2025",
-    "Fall 2024",
-    "Summer 2024",
-    "Winter 2024",
-    "Summer 2023",
-    "Winter 2023",
-    "Summer 2022",
-    "Winter 2022",
-    "Summer 2021",
-    "Winter 2021",
-    "Summer 2020",
-    "Winter 2020",
-    "Summer 2019",
-    "Winter 2019",
-    "Summer 2018",
-    "Winter 2018",
-    "Summer 2017",
-    "Winter 2017",
-    "Summer 2016",
-    "Winter 2016",
-    "Summer 2015",
-    "Winter 2015",
-    "Summer 2014",
-    "Winter 2014",
-    "Summer 2013",
-    "Winter 2013",
-    "Summer 2012",
-    "Winter 2012",
-    "Summer 2011",
-    "Winter 2011",
-    "Summer 2010",
-    "Winter 2010",
-    "Summer 2009",
-    "Winter 2009",
-    "Summer 2008",
-    "Winter 2008",
-    "Summer 2007",
-    "Winter 2007",
-    "Summer 2006",
-    "Winter 2006",
-    "Summer 2005",
-  ];
+  const seasons = ["Winter", "Spring", "Summer", "Fall"];
+  const startYear = 2005;
+  const currentYear = new Date().getFullYear();
+  const batches: string[] = [];
+
+  for (let year = currentYear; year >= startYear; year--) {
+    for (let i = seasons.length - 1; i >= 0; i--) {
+      batches.push(`${seasons[i]} ${year}`);
+    }
+  }
+
+  return batches;
 }
 
 async function fetchBatch(batch: string): Promise<Company[]> {
