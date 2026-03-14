@@ -90,6 +90,89 @@
     }
   },
   {
+    "id": 30851,
+    "name": "Sylvian",
+    "slug": "sylvian",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
+    "website": "https://sylvian.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sylvian helps companies build specialized AI agents. ",
+    "one_liner": "Specialized AI Agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762195938,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "30851",
+    "_highlightResult": {
+      "name": {
+        "value": "Sylvian",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://sylvian.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Sylvian helps companies build specialized AI agents. ",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Specialized AI Agents.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Reinforcement Learning",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 30643,
     "name": "Nuntius",
     "slug": "nuntius",
