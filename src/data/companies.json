@@ -24028,6 +24028,113 @@
     }
   },
   {
+    "id": 22741,
+    "name": "Laudspeaker",
+    "slug": "laudspeaker",
+    "former_names": [
+      "Askly",
+      "Tachyon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3b42d39456545bb9b0fc5c6bcccfb598bd73cfb.png",
+    "website": "https://laudspeaker.com/?ref=bf",
+    "all_locations": "Mountain View, CA, USA; Remote",
+    "long_description": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns.",
+    "one_liner": "Open source mobile marketing platform. Alternative to appcues /…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1611772724,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Open Source",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "22741",
+    "_highlightResult": {
+      "name": {
+        "value": "Laudspeaker",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Askly",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tachyon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://laudspeaker.com/?ref=bf",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Mountain View, CA, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Open source mobile marketing platform. Alternative to appcues /…",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Open Source",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Automation",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 22718,
     "name": "BeWell Digital",
     "slug": "bewell-digital",
