@@ -8547,6 +8547,104 @@
     }
   },
   {
+    "id": 27159,
+    "name": "Almond",
+    "slug": "almond",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c35bd0b00b8f8b7f91cc07954a3f36515544f2e.png",
+    "website": "https://www.almondobgyn.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Almond is like One Medical but for women’s health: we make it easy to get great ObGyn care fast, both at our in-person offices and over telehealth.\r\n\r\nThe problem with traditional ObGyn practices is that physician time is misused, so patients get slow care. We're rebuilding back-office tech that saves physicians time, and we're hiring a wider range of care providers roles, which let us deliver better outcomes to patients and reduce the amount of time it takes to get their issue resolved.",
+    "one_liner": "We make it easy to get great ObGyn care  in-person and over telehealth",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1658432706,
+    "tags": [
+      "Consumer Health Services",
+      "Telehealth",
+      "Consumer",
+      "Healthcare",
+      "Femtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Inactive",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "27159",
+    "_highlightResult": {
+      "name": {
+        "value": "Almond",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.almondobgyn.com/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Los Angeles, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Almond is like One Medical but for women’s health: we make it easy to get great ObGyn care fast, both at our in-person offices and over telehealth.\r\n\r\nThe problem with traditional ObGyn practices is that physician time is misused, so patients get slow care. We're rebuilding back-office tech that saves physicians time, and we're hiring a wider range of care providers roles, which let us deliver better outcomes to patients and reduce the amount of time it takes to get their issue resolved.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "We make it easy to get great ObGyn care  in-person and over telehealth",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Consumer Health Services",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Telehealth",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Healthcare",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Femtech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27158,
     "name": "Jasmine Energy",
     "slug": "jasmine-energy",
@@ -24021,113 +24119,6 @@
         },
         {
           "value": "Community",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      ]
-    }
-  },
-  {
-    "id": 22741,
-    "name": "Laudspeaker",
-    "slug": "laudspeaker",
-    "former_names": [
-      "Askly",
-      "Tachyon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3b42d39456545bb9b0fc5c6bcccfb598bd73cfb.png",
-    "website": "https://laudspeaker.com/?ref=bf",
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns.",
-    "one_liner": "Open source mobile marketing platform. Alternative to appcues /…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1611772724,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Open Source",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Inactive",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "objectID": "22741",
-    "_highlightResult": {
-      "name": {
-        "value": "Laudspeaker",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "former_names": [
-        {
-          "value": "Askly",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        {
-          "value": "Tachyon",
-          "matchLevel": "none",
-          "matchedWords": []
-        }
-      ],
-      "website": {
-        "value": "https://laudspeaker.com/?ref=bf",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "all_locations": {
-        "value": "Mountain View, CA, USA; Remote",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "long_description": {
-        "value": "Open source mobile marketing automation and customer onboarding platform. Alternative to braze customer io / iterable / pendo / appcues  . Segment and engage your users with complex scheduled push notification, sms and email campaigns.",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "one_liner": {
-        "value": "Open source mobile marketing platform. Alternative to appcues /…",
-        "matchLevel": "none",
-        "matchedWords": []
-      },
-      "tags": [
-        {
-          "value": "SaaS",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        {
-          "value": "B2B",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        {
-          "value": "Open Source",
-          "matchLevel": "none",
-          "matchedWords": []
-        },
-        {
-          "value": "Automation",
           "matchLevel": "none",
           "matchedWords": []
         }
