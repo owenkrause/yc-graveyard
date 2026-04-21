@@ -17474,6 +17474,92 @@
     }
   },
   {
+    "id": 24524,
+    "name": "outloud.ai",
+    "slug": "outloud-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a26f5f21689070c1c612757e20582c586c7d843e.png",
+    "website": "https://www.outloud.ai/",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "We record conversations that customers have when they are placing orders in drive-thru restaurants, automatically analyze them, and help operators to upsell better or alert them when they are out of stock.\r\n",
+    "one_liner": "Building Gong.io for offline retail.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1629292834,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "24524",
+    "_highlightResult": {
+      "name": {
+        "value": "outloud.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.outloud.ai/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Miami, FL, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "We record conversations that customers have when they are placing orders in drive-thru restaurants, automatically analyze them, and help operators to upsell better or alert them when they are out of stock.\r\n",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Building Gong.io for offline retail.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Machine Learning",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 24498,
     "name": "Levo",
     "slug": "levo",
@@ -24012,6 +24098,90 @@
         },
         {
           "value": "E-commerce",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 22841,
+    "name": "ControlHub",
+    "slug": "controlhub",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/568af1dc427d20e5700ab4a31d90395b1ed9bdde.png",
+    "website": "https://controlhub.com/",
+    "all_locations": "Remote",
+    "long_description": "ControlHub automates the Procurement and Accounts Payable process of mid-size companies with intuitive purchasing software and AP solutions.\r\n\r\nKey features: Purchase Requests generation, Purchasing Approvals, Purchase Orders (PO), Bill processing and payments, sync with ERPs such as Quickbooks and NetSuite.",
+    "one_liner": "Purchasing Software | Procure-to-Pay SaaS ",
+    "team_size": 22,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1674180805,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "22841",
+    "_highlightResult": {
+      "name": {
+        "value": "ControlHub",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://controlhub.com/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "ControlHub automates the Procurement and Accounts Payable process of mid-size companies with intuitive purchasing software and AP solutions.\r\n\r\nKey features: Purchase Requests generation, Purchasing Approvals, Purchase Orders (PO), Bill processing and payments, sync with ERPs such as Quickbooks and NetSuite.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Purchasing Software | Procure-to-Pay SaaS ",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
           "matchLevel": "none",
           "matchedWords": []
         }
