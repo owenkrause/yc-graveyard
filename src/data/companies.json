@@ -15094,6 +15094,101 @@
     }
   },
   {
+    "id": 25357,
+    "name": "PeakPath",
+    "slug": "peakpath",
+    "former_names": [
+      "NudgeLabs",
+      "Lifted"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9fddfe4d12453dc770f34a41ba5f39f016e10d.png",
+    "website": "https://www.peakpath.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "PeakPath is a service that helps enterprises improve team performance and employee retention. We pair each employee with an online coach and use smart watch data to improve their physical and mental health.",
+    "one_liner": "Smartwatch powered coaching to improve teams sustainable performance",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1642675834,
+    "tags": [
+      "Mental Health Tech",
+      "Biometrics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "25357",
+    "_highlightResult": {
+      "name": {
+        "value": "PeakPath",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "NudgeLabs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Lifted",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.peakpath.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Stockholm, Stockholm County, Sweden",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "PeakPath is a service that helps enterprises improve team performance and employee retention. We pair each employee with an online coach and use smart watch data to improve their physical and mental health.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Smartwatch powered coaching to improve teams sustainable performance",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Mental Health Tech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Biometrics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 25355,
     "name": "Supertone",
     "slug": "supertone",
@@ -55674,8 +55769,8 @@
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://www.xberts.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Xberts is an online shopping community that helps people find the best daily deals, get money-saving tips from experts, win reward points for Free Gift Redemption and more. Millions of users have joined our community to explore and share special offers every day, which makes Xberts your go-to destination for online shopping!\r\n\r\nWe're an international startup company backed by leading investors from both Silicon Valley and Asia including Y Combinator, YCVC Fund, Plug&Play, AV Capital, M&S Partners, Monad Ventures, Dropbox's Early Employee, etc. In 2017, Xberts was recognized by Forbes as one of the \"Top10 Startups Using Tech to Change People's Lives in Asia\".\r\n\r\nFor more details, please visit our website at:  www.xberts.com",
-    "one_liner": "Xberts.com is a cross-border marketplace for hardware products. ",
+    "long_description": "A community-based marketplace to review, discover and shop global hardware products. ",
+    "one_liner": "Xberts.com is a community-based marketplace for global hardware…",
     "team_size": 50,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -55719,12 +55814,12 @@
         "matchedWords": []
       },
       "long_description": {
-        "value": "Xberts is an online shopping community that helps people find the best daily deals, get money-saving tips from experts, win reward points for Free Gift Redemption and more. Millions of users have joined our community to explore and share special offers every day, which makes Xberts your go-to destination for online shopping!\r\n\r\nWe're an international startup company backed by leading investors from both Silicon Valley and Asia including Y Combinator, YCVC Fund, Plug&Play, AV Capital, M&S Partners, Monad Ventures, Dropbox's Early Employee, etc. In 2017, Xberts was recognized by Forbes as one of the \"Top10 Startups Using Tech to Change People's Lives in Asia\".\r\n\r\nFor more details, please visit our website at:  www.xberts.com",
+        "value": "A community-based marketplace to review, discover and shop global hardware products. ",
         "matchLevel": "none",
         "matchedWords": []
       },
       "one_liner": {
-        "value": "Xberts.com is a cross-border marketplace for hardware products. ",
+        "value": "Xberts.com is a community-based marketplace for global hardware…",
         "matchLevel": "none",
         "matchedWords": []
       },
