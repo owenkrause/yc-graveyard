@@ -12578,6 +12578,98 @@
     }
   },
   {
+    "id": 25975,
+    "name": "Ploomber",
+    "slug": "ploomber",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5abaea13a47b9e7cb04c8d183b6a2056824f626.png",
+    "website": "https://ploomber.io/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "We are building a cloud platform to help companies deploy and scale AI applications.",
+    "one_liner": "Heroku for AI",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1643229196,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "25975",
+    "_highlightResult": {
+      "name": {
+        "value": "Ploomber",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://ploomber.io/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "New York, NY, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "We are building a cloud platform to help companies deploy and scale AI applications.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Heroku for AI",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Developer Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Machine Learning",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Analytics",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 25966,
     "name": "Sendo",
     "slug": "sendo",
@@ -17039,6 +17131,92 @@
         },
         {
           "value": "Delivery",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 24681,
+    "name": "Verde",
+    "slug": "verde",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f6787a334a02661832a554e3902839e2550b8d7.png",
+    "website": "https://www.verde.agr.br",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Verde is a lending platform that offers fast loans to small-and-medium sized farmers in Brazil. Our vertical software allows independent ag loan advisors to originate loans digitally and manage their operations more effectively.",
+    "one_liner": "Digital lending platform for Brazilian farmers",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1626699987,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Inactive",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "24681",
+    "_highlightResult": {
+      "name": {
+        "value": "Verde",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.verde.agr.br",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "São Paulo, SP, Brazil",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Verde is a lending platform that offers fast loans to small-and-medium sized farmers in Brazil. Our vertical software allows independent ag loan advisors to originate loans digitally and manage their operations more effectively.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Digital lending platform for Brazilian farmers",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
           "matchLevel": "none",
           "matchedWords": []
         }
