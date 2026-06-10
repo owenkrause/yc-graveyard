@@ -30232,6 +30232,92 @@
     }
   },
   {
+    "id": 22566,
+    "name": "Lovd",
+    "slug": "lovd",
+    "former_names": [
+      "Chums",
+      "Ezly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4148be76dee7d12679686787183910a3a06745b.png",
+    "website": "http://www.lovd.com",
+    "all_locations": "Los Angeles, CA, USA; New York, NY, USA",
+    "long_description": "Buy and sell previously Lovd goods. We'll pick up and deliver in 24 hours. Only in NYC.",
+    "one_liner": "It's not used, it's Lovd.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1615385010,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Inactive",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": false,
+    "question_answers": false,
+    "objectID": "22566",
+    "_highlightResult": {
+      "name": {
+        "value": "Lovd",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Chums",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Ezly",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "http://www.lovd.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Los Angeles, CA, USA; New York, NY, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Buy and sell previously Lovd goods. We'll pick up and deliver in 24 hours. Only in NYC.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "It's not used, it's Lovd.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "industries": [
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 22565,
     "name": "Gonddo",
     "slug": "gonddo",
