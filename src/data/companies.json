@@ -13634,6 +13634,107 @@
     }
   },
   {
+    "id": 26210,
+    "name": "Alima",
+    "slug": "alima",
+    "former_names": [
+      "Neutro"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ecbbe0f22eaf0cdb09c9e525fe15a53c013d389.png",
+    "website": "https://alima.la",
+    "all_locations": "Mexico City, CDMX, Mexico",
+    "long_description": "Alima is a supply chain tech company that simplifies how businesses procure fresh goods in Latin America. We help restaurants, CPG brands, and retailers plan their buying orders, ordering products, expense management, and logistics. ",
+    "one_liner": "Fresh procurement made easy",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1642640944,
+    "tags": [
+      "B2B",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "26210",
+    "_highlightResult": {
+      "name": {
+        "value": "Alima",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Neutro",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://alima.la",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Mexico City, CDMX, Mexico",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Alima is a supply chain tech company that simplifies how businesses procure fresh goods in Latin America. We help restaurants, CPG brands, and retailers plan their buying orders, ordering products, expense management, and logistics. ",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Fresh procurement made easy",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Logistics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Supply Chain and Logistics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 26206,
     "name": "Vecindario",
     "slug": "vecindario",
