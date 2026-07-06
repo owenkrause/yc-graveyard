@@ -36741,7 +36741,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91478c7c3ca52d34bc10c964c9668b6eb566be9c.png",
     "website": "https://www.thunderpod.com/",
-    "all_locations": "Bengaluru, India; MH, India; Remote",
+    "all_locations": "Bengaluru, KA, India; MH, India; Remote",
     "long_description": "Thunderpod is a no-code platform that helps workplaces and communities engage their members by providing them with an Engagement Management System (EMS).\r\n\r\nWhat SurveyMonkey is for surveys, Thunderpod is for engagement.",
     "one_liner": "Community Engagement Platform",
     "team_size": 12,
@@ -36785,7 +36785,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Bengaluru, India; MH, India; Remote",
+        "value": "Bengaluru, KA, India; MH, India; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -47150,7 +47150,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91f103c5ea8ba96047f1ef891154ca0f0c8dea47.png",
     "website": "https://endpointhealth.com/",
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "long_description": "Endpoint Health is on a mission to address urgent needs in immune-driven critical and chronic illnesses by delivering therapies that are personalized to each patient’s biology. We built Endpoint Health from the ground up to develop and commercialize therapeutics and therapy-guiding tests, to ensure that every patient receives personalized treatment that will dramatically improve their outcomes. Our vision is a world in which all patients have effective, personalized treatment, because therapies are targeted to the right patient at the right time.",
     "one_liner": "Precision-first therapies",
     "team_size": 23,
@@ -47204,7 +47204,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA; Remote",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -83156,7 +83156,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86ca356b3358da854efd0d67a6b9ba13be4acfcb.png",
     "website": "http://thread.com",
-    "all_locations": "England, United Kingdom",
+    "all_locations": "London, England, United Kingdom",
     "long_description": "Thread, a free online personal styling service for men, uses a combination of human stylists and a powerful algorithm to make it easy for guys to dress well. Thread was founded in 2012 by three guys—Kieran, Ben and Ben—who wanted to dress well, but found it difficult or frustrating to do so: they hated shopping on the High Street and were overwhelmed by millions of choices online. \r\n\r\nThread combines the best bits of tech with the best bits of personal styling: After signing up by completing a short questionnaire and uploading photos of yourself, you’re paired with a stylist who reviews your information and uses Thread’s proprietary algorithm to sort through thousands of items to create the best outfits for you. When you log onto Thread, everything you see is tailored to your sizes, budget, preferences and tastes. \r\n\r\nWe’ve raised $16 mm in funding from investors in the realms of tech, Artificial Intelligence and fashion, including Beringea, Balderton Capital, Demis Hassabis and Mustafa Suleyman (co-founders of Google-owned DeepMind), Andrew Jennings (former president of Saks 5th Avenue), Edgar Bronfman Jr. (former owner of Warner Music), Guy Hipwell (former head of online at Harrods and Liberty) and Shakil Kahn (founding investor in Spotify).",
     "one_liner": "Thread makes it incredibly easy to dress well, using stylists and AI",
     "team_size": 92,
@@ -83200,7 +83200,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "England, United Kingdom",
+        "value": "London, England, United Kingdom",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -97353,7 +97353,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://snaptalent.com",
-    "all_locations": "London, United Kingdom; San Francisco, CA, USA",
+    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA",
     "long_description": "Snaptalent powers a distributed job advertisement network primarily meant for developer listings.\n\nJob ads submitted to Snaptalent are displayed on the service's participating websites. A unique feature about the network is that it will detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university. It will then serve up targeted ads that have been designated for, say, employees of Google or students of Carnegie Mellon.",
     "one_liner": "",
     "team_size": 2,
@@ -97395,7 +97395,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "London, United Kingdom; San Francisco, CA, USA",
+        "value": "London, England, United Kingdom; San Francisco, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
