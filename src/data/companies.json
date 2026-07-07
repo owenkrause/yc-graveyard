@@ -21713,7 +21713,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/900b1772e9f94bc70841de05a846c5f6285066e1.png",
     "website": "https://www.ivella.com/",
-    "all_locations": "Santa Monica, CA, USA",
+    "all_locations": "Los Angeles, CA, USA; Santa Monica, CA, USA",
     "long_description": "Ivella builds banking and savings products that are designed for couples, no matter where they are in their relationship. Whether you've been dating for months are signing up for the The Split Account or have been married for decades and are signing up for The Joint Account and Savings Pods, we've got a product for you.",
     "one_liner": "Banking and savings products designed for couples",
     "team_size": 8,
@@ -21759,7 +21759,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Santa Monica, CA, USA",
+        "value": "Los Angeles, CA, USA; Santa Monica, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -22595,7 +22595,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e76d271d52208f7b3976f708e61bc7a0fee49d49.png",
     "website": "https://nexushq.com",
-    "all_locations": "Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
     "long_description": "Nexus offers a unified checking and investment account. Your full balance is invested to get market returns, all while retaining instant access to cash even when the markets are closed. We are two ex-Googlers with CS PhDs from Stanford and the University of Washington who have worked together for 7 years.",
     "one_liner": "Nexus  offers a unified checking and investment account.",
     "team_size": 2,
@@ -22647,7 +22647,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Mountain View, CA, USA; Remote",
+        "value": "San Francisco, CA, USA; Mountain View, CA, USA; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -26471,7 +26471,7 @@
       "Lumos"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
-    "website": "https://www.homebreeze.com/",
+    "website": "https://www.homebreeze.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our AI system remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.\r\n\r\nAs a pioneer in bringing AI to home services, we served thousands of customers across California and delivered an experience that both homeowners and contractors love (our reviews average 4.97 stars!).",
     "one_liner": "The fastest and easiest way to make home upgrades",
@@ -26522,7 +26522,7 @@
         }
       ],
       "website": {
-        "value": "https://www.homebreeze.com/",
+        "value": "https://www.homebreeze.ai/",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -72144,7 +72144,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://theshotput.com",
-    "all_locations": "Oakland, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
     "long_description": "Carefully engineered software to get products to your customers across the world faster and on time. We're trusted to simplify e-commerce and logistics by building the necessary tools for companies to improve their operations. These include determining key shipping routes, understanding customer demand, or reducing shipping and material costs.\r\n\r\nWe built Shotput so that people can use new technologies to manage work across companies which will allow them to precisely calculate costs & time. We'll enter a world where people no longer have to work on boring tasks of calling each other to find statuses or putting things into a box all day. Instead we can be free to think strategically about what we're building, who's the customer, and how to best serve their needs.",
     "one_liner": "Shotput (S15) develops AI and robotics to completely automate…",
     "team_size": 2,
@@ -72190,7 +72190,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Oakland, CA, USA; Remote",
+        "value": "San Francisco, CA, USA; Oakland, CA, USA; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -86434,7 +86434,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://wireover.com",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "long_description": "WireOver is a desktop application that leverages peer-to-peer technology for sending files privately. It's free and unlimited, solving an unmet need for sending large files easily. Pro accounts get incredibly strong security, with end-to-end encryption.",
     "one_liner": "Really secure file sending for big files.",
     "team_size": 2,
@@ -86477,7 +86477,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Cambridge, MA, USA",
+        "value": "Boston, MA, USA; Cambridge, MA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -87159,7 +87159,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://kytephone.com",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "long_description": "Kyte is an easy parental control application that can be downloaded to any Android phone, activated, and then given to a child.\n\nThis app allows the child to make pre-approved phone calls and play only authorized games. The child will be unable to leave the app to access the rest of the Android phone’s features. Parents have full control over the applications from the browser and can also track the phone’s GPS online.\n\nIt has other features that enable parents to turn off SMS and Facebook during school hours, ban apps and games during school and bed time hours, monitor internet usage, prevent the usage of third party browsers, set time limits on games, check call history, track location in real-time, receive email reports about what their child has been doing, and full remote control from their phone, tablet or PC.",
     "one_liner": "Kid's first smartphone with web-based parental controls.",
     "team_size": 0,
@@ -87208,7 +87208,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Mountain View, CA, USA",
+        "value": "San Francisco, CA, USA; Mountain View, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -95341,7 +95341,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://picurio.com",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "long_description": "Picurio is web-based photo sharing and photo management software.",
     "one_liner": "",
     "team_size": 2,
@@ -95381,7 +95381,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Mountain View, CA, USA",
+        "value": "San Francisco, CA, USA; Mountain View, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
