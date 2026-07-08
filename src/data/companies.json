@@ -7707,6 +7707,98 @@
     }
   },
   {
+    "id": 27921,
+    "name": "Homeflow",
+    "slug": "homeflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfb9cc8d9dd9147ff98523666ebfa64cc90b36a9.png",
+    "website": "https://www.homeflow.me/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Homeflow is the first digital platform that gives larger real estate investors a single place to purchase and manage insurance for their portfolio. Rather than having policies spread out between multiple brokers, real estate managers can use Homeflow to view their policies, change coverages, and get quotes for upcoming acquisitions.",
+    "one_liner": "Simplifying insurance for large real estate investors",
+    "team_size": 4,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1675273297,
+    "tags": [
+      "Real Estate",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "27921",
+    "_highlightResult": {
+      "name": {
+        "value": "Homeflow",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.homeflow.me/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Homeflow is the first digital platform that gives larger real estate investors a single place to purchase and manage insurance for their portfolio. Rather than having policies spread out between multiple brokers, real estate managers can use Homeflow to view their policies, change coverages, and get quotes for upcoming acquisitions.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Simplifying insurance for large real estate investors",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Real Estate",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Proptech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "Real Estate and Construction",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Housing and Real Estate",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27909,
     "name": "Magicflow 𐂂",
     "slug": "magicflow",
@@ -47691,7 +47783,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c50b6b3d32852a4b7f08b0e113b65fd5a0c29dcf.png",
     "website": "https://www.letsfuse.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Fuse provides single API that integrates with multiple bank connection vendors, such as Plaid, MX, Teller, Finicity and Yodlee. Users can easily search for and select their bank via a drop-in component in your app, and then the most reliable bank connection vendor for that bank will be displayed. Fuse also provides a consistent data model for all bank integrations and handles the necessary data transformations and API quirks for you.\r\n\r\nBy using Fuse, companies can improve the reliability of bank connections, reduce disconnections, and support more banks. ",
     "one_liner": "Unified API for financial data aggregators.",
     "team_size": 7,
@@ -47758,7 +47850,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "New York, NY, USA",
+        "value": "New York City, NY, USA; New York, NY, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -70899,7 +70991,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://maderight.com",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "long_description": "Global manufacturing, simplified.\n\nMaderight is your one-stop shop for fashion sourcing, manufacturing, and logistics. We manage your entire supply chain so that you can focus on building your brand and selling your products rather than worrying about manufacturing delays and mistakes. Our consortium of factories have been curated to guarantee ethical practices, quality assurances, and timely delivery. \n\nY Combinator S15 & StartX S15",
     "one_liner": "Global Manufacturing, Simplified",
     "team_size": 51,
@@ -70941,7 +71033,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "San Mateo, CA, USA",
+        "value": "San Francisco, CA, USA; San Mateo, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -73221,7 +73313,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://kuhcoon.com",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA; San Mateo, CA, USA",
     "long_description": "On a mission to automate, optimize, and unify your digital advertising campaigns with incredible software.",
     "one_liner": "On a mission to programmatically automate, optimize, and unify your…",
     "team_size": 2,
@@ -73271,7 +73363,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "San Mateo, CA, USA",
+        "value": "San Francisco, CA, USA; San Mateo, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -84831,7 +84923,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://collections.me",
-    "all_locations": "Mountain View, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Mountain View, CA, USA",
     "long_description": "Collections is a cross-platform personal content manager built for the age of cloud computing. It gives you access to everything you have stored in cloud services like Dropbox and Google Drive and in web apps like Facebook and Instagram, as well as your local files. As a universal finder for the cloud, Collections lets you bring together all of your most important digital content, helping you to regain control over your online presence.\n\nWhat would Apple's Finder look like if it were invented today, rather than in 1983? Collections is an Internet-age personal content manager, a fundamental reinvention of the file manager that lets you easily access and organize all of the digital content you have that's currently scattered across a dizzying array of cloud storage providers and web apps. It's a file system for the web.",
     "one_liner": "Finder for the Cloud",
     "team_size": 2,
@@ -84871,7 +84963,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Mountain View, CA, USA",
+        "value": "San Francisco, CA, USA; Mountain View, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -96926,7 +97018,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://frogmetrics.com",
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "long_description": "Frogmetrics aggregates your data from unlimited locations, automatically finds the most important statistics, and helps you gain insights about your business from your web browser. The company wants to place touch screens in restaurants, stores, and other brick and mortar establishments that can be used to collect customer feedback on the spot. The devices ask customers a few questions at the point of sale about their experience and can collect contact information about customers to generate leads. The information gathered across physical locations is aggregated and analyzed for trends and other statistics.",
     "one_liner": "",
     "team_size": 2,
@@ -96966,7 +97058,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Brooklyn, NY, USA",
+        "value": "New York City, NY, USA; Brooklyn, NY, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
