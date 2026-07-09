@@ -21690,7 +21690,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4366b660d2b8d6626f4b66eb436af4dbe2bac7a0.png",
     "website": "https://onestopkitchen.com/",
-    "all_locations": "Sunnyvale, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "OneStopKitchen (OSK) offers advanced technology and an innovative model which allows any restaurant to scale to multiple locations at zero cost. OSK offers an entire suite of AI powered advanced restaurant inventory, ops and logistics tech to scale quickly with limited risk. OSK operationalizes underperforming restaurant space and staff to run OSK kitchens which are located in prime downtowns and high walk-in areas. Think of AirBnB for restaurants. OSK is a preferred restaurant partner due to its innovative hyper scalable model. Consumers can mix & match multiple cuisines in a single order for dine in, pick up or delivery.",
     "one_liner": "AI-Driven Tech & Space Optimization to Scale Restaurants",
     "team_size": 10,
@@ -21753,7 +21753,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Sunnyvale, CA, USA",
+        "value": "San Francisco, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -27112,7 +27112,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d149f0a2b25647cbd039700e1b7acd15a8342eb.png",
     "website": "https://gettaste.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "Taste is an online marketplace where you can order ready-to-eat dinners from great restaurants, shipped nationwide. The next time you want to have a nice dinner at home, instead of cooking for hours or getting low quality take out, you can order a nice multi-course dinner from Taste to enjoy with friends or loved ones.\r\n",
     "one_liner": "Online marketplace for dinners shipped from great restaurants",
     "team_size": 2,
@@ -27165,7 +27165,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "New York, NY, USA",
+        "value": "New York City, NY, USA; New York, NY, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -39998,7 +39998,7 @@
     "name": "Jamiphy",
     "slug": "jamiphy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09317586739566c757c55ea8bdc47bad8a30f174.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a989e6c7b77299d8e47c0afbbce8b8473904f5d.png",
     "website": "https://jamiphy.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Jamiphy is the destination for live music. All you have to do is watch, engage with what you like, skip what you don't, and you'll find an endless stream of live music that feels personalized just for you.\r\n\r\nWe make it easy for you to discover and create your own live music videos by providing easy-to-use tools to view and capture your greatest musical moments. Take your videos to the next level with Jamiphy!",
@@ -58716,7 +58716,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8031cd143c9dda792086f541cf539cc6d2126cb5.png",
     "website": "http://www.getspect.com",
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
     "long_description": "Vision Disease cause innumerable cases of preventable blindness globally - 415 million diabetic patients worldwide are susceptible to Diabetic Retinopathy (DR), Glaucoma, and more. Current screening protocols for vision disease require ophthalmologists to manually diagnose patients through visual assessment of the fundus. Given the large number of diabetes patients in various communities, this process is expensive, inefficient, and an undue burden on eye clinics.",
     "one_liner": "Value-based retinal screening in primary care to prevent blindness. ",
     "team_size": 7,
@@ -58768,7 +58768,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA; Remote",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -73137,7 +73137,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://thinair.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "At ThinAir They are building the future of data security--and it's wrought with exciting engineering challenges!\r\n\r\nAs a cloud-based SaaS product, ThinAir is the first data security solution that allows everyone—administrators and employees alike—to take control over their most sensitive data in a way that enhances, not hinders their productivity.\r\n\r\nThey were the 2014 DEMO Enterprise's DEMOGod Winner and they completed Y Combinator as part of W15.",
     "one_liner": "Intelligent data security for teams",
     "team_size": 11,
@@ -73180,7 +73180,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -77342,7 +77342,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/282992bccaef3812d15f0bc6b45e2cce6670a8d0.png",
     "website": "http://neptune.io",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Neptune is an observability startup that offers one-stop incident enrichment and automation platform for IT Operations and DevOps teams.\r\n\r\nIt is a fact of life that servers and applications go down causing IT outages. Today most of the IT incident response is manual, tedious and lengthy resulting in more downtime and losses for businesses. At the same it's very painful for a DevOps engineer to wake up at midnight and on weekends to deal with server and application alerts. \r\n\r\nEnter Neptune, which lets a DevOps engineer automate his incident response steps --Troubleshooting + Resolution + Documentation,  so that he/she can fix the incidents in minutes instead of hours. So it's a win-win deal : For businesses downtime is minimized, and for DevOps engineers they need not worry about a deluge of alerts and midnight wake up calls.\r\n\r\nBig companies like Amazon, Facebook etc built sophisticated incident response tools to achieve high availability and resiliency. We have architected and built one such tool for AWS. Now Neptune is making one such tool available for everyone. \r\n\r\nGive it a try at www.neptune.io",
     "one_liner": "A self-healing platform to enrich and fix server alerts automatically",
     "team_size": 11,
@@ -77386,7 +77386,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "San Mateo, CA, USA",
+        "value": "San Francisco, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
