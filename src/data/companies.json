@@ -16542,7 +16542,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1453dc70d000f1e48c26c218054c1803904e2541.png",
     "website": "http://www.emigre.us/",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "Emigre is the fastest and the only end-to-end digital Indian banking solution for Indian expats (Non-Resident Indians) so they can support their families back home, shop on Indian websites, and invest in Indian stocks and real estate.",
     "one_liner": "Banking in India for Indian expats (NRIs)",
     "team_size": 2,
@@ -16588,7 +16588,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -33607,7 +33607,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bba8c172b89a6a65f0c8df4fa166d8025cda09c3.png",
     "website": "https://clearmix.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York City, NY, USA; New York, NY, USA; Remote",
     "long_description": "Our platform connects expert producers with guests to record marketing videos remotely from anywhere - videos are produced 4x faster and at 10x lower cost.",
     "one_liner": "On-Demand, Fully-Remote Marketing and Sales Video Production Platform",
     "team_size": 7,
@@ -33659,7 +33659,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "New York, NY, USA; Remote",
+        "value": "New York City, NY, USA; New York, NY, USA; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -41899,7 +41899,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65122a2cf93b0728efdffcc0603d35f8f2c17dbe.png",
     "website": "https://www.unflow.com",
-    "all_locations": "New York, NY, USA; London, England, United Kingdom; Remote",
+    "all_locations": "New York City, NY, USA; London, England, United Kingdom; Remote",
     "long_description": "We enable product and marketing teams to create and publish native in-app experiences, without engineering help",
     "one_liner": "The next generation CMS built for mobile apps",
     "team_size": 5,
@@ -41975,7 +41975,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "New York, NY, USA; London, England, United Kingdom; Remote",
+        "value": "New York City, NY, USA; London, England, United Kingdom; Remote",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -70384,7 +70384,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/812115043f551d4d5369796cd3279f6d690c0a1e.png",
     "website": "http://voiq.com",
-    "all_locations": "Redwood City, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Redwood City, CA, USA",
     "long_description": "We provide businesses the opportunity to leverage AI conversational VoiceBots for Sales & Marketing.",
     "one_liner": "Conversational AI VoiceBots for Business",
     "team_size": 8,
@@ -70428,7 +70428,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Redwood City, CA, USA",
+        "value": "San Francisco, CA, USA; Redwood City, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -88525,7 +88525,7 @@
     "former_names": [],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://taptolearn.com",
-    "all_locations": "Menlo Park, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Menlo Park, CA, USA",
     "long_description": "When we began our first experiments with using Mobile devices a few years ago we were very excited by the possibility of learning in nontraditional manner. The beauty of effectiveness of the iPhone first and the iPad platforms gave shape to our vision of building beautiful apps, designed to build learning for your iPhone, iPod touch and iPad Devices. Each of our apps are extremely easy to use, focus on just one area of learning using interactivity and add an element to fun while learning.",
     "one_liner": "Games For Education",
     "team_size": 11,
@@ -88568,7 +88568,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Menlo Park, CA, USA",
+        "value": "San Francisco, CA, USA; Menlo Park, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
