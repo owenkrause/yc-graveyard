@@ -38291,7 +38291,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57f772c91256fa7714735af9ad73b3b7c3b1648.png",
     "website": "https://www.scout.ml/",
-    "all_locations": "Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "long_description": "",
     "one_liner": "Dead simple CI/CD for ML teams",
     "team_size": 1,
@@ -38368,7 +38368,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Berkeley, CA, USA",
+        "value": "San Francisco, CA, USA; Berkeley, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -51790,7 +51790,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cac41291118dec8729ffc4b179a57d24f1c93ac.png",
     "website": "http://radix.bio",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "long_description": "",
     "one_liner": "Operating systems for biology labs",
     "team_size": 7,
@@ -51842,7 +51842,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Cambridge, MA, USA",
+        "value": "Boston, MA, USA; Cambridge, MA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -52474,7 +52474,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508f1978cc2dc172474c547c73cf0b9d8fd91bb0.png",
     "website": "https://mismatch.app/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York City, NY, USA; New York, NY, USA",
     "long_description": "It's a better way to build frontend. It connects your Stories, Tokens, & Figma components. It lets you inspect designs with confidence and speed. And you can use it in Storybook.",
     "one_liner": "Developer Handoff - Reimagined for Storybook",
     "team_size": 4,
@@ -52525,7 +52525,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "New York, NY, USA",
+        "value": "New York City, NY, USA; New York, NY, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -86076,7 +86076,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78d11da542ca4d82bd77196e0fab2a58f5dafd2c.png",
     "website": "http://arccameras.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "aerial videography",
     "one_liner": "aerial videography",
     "team_size": 2,
@@ -86119,7 +86119,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -87900,7 +87900,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0301ab22e915e9c1a21ace954bf9ffe1ca78ff4.png",
     "website": "http://pixelapse.com",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "Pixelapse is the best place to share designs and work together. We build tools to improve the design process and make collaboration easier. Pixelapse simplifies version control and makes it accessible for designers to share and discuss their work with their friends, colleagues and the world.",
     "one_liner": "Github for designers. We automatically keep track of revisions of…",
     "team_size": 0,
@@ -87943,7 +87943,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Palo Alto, CA, USA",
+        "value": "San Francisco, CA, USA; Palo Alto, CA, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -90235,7 +90235,7 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://askolo.com",
-    "all_locations": "Brooklyn, NY, USA",
+    "all_locations": "New York City, NY, USA; Brooklyn, NY, USA",
     "long_description": "Creating modular server side software with Swift.",
     "one_liner": "In-video advertising.",
     "team_size": 2,
@@ -90285,7 +90285,7 @@
         "matchedWords": []
       },
       "all_locations": {
-        "value": "Brooklyn, NY, USA",
+        "value": "New York City, NY, USA; Brooklyn, NY, USA",
         "matchLevel": "none",
         "matchedWords": []
       },
