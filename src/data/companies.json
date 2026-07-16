@@ -643,6 +643,104 @@
     }
   },
   {
+    "id": 30222,
+    "name": "Altrina",
+    "slug": "altrina",
+    "former_names": [
+      "Symmetric Labs",
+      "Tessa",
+      "General Agency"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
+    "website": "https://altrina.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
+    "one_liner": "The SOP Automation Platform",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1736185270,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "30222",
+    "_highlightResult": {
+      "name": {
+        "value": "Altrina",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Symmetric Labs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tessa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "General Agency",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://altrina.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The SOP Automation Platform",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Productivity",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 30216,
     "name": "Sublingual",
     "slug": "sublingual",
@@ -9572,6 +9670,117 @@
     }
   },
   {
+    "id": 27679,
+    "name": "rift",
+    "slug": "rift",
+    "former_names": [
+      "Archipelago",
+      "Rift"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad003b9e6b5d5aa5f2dbd605812cd3b2604a327.png",
+    "website": "https://rift.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "rift is B2B lead routing made simple.\r\n\r\nInbound workflows leak revenue at every step. Routing is manual. Calendar links are generic. No-shows go unrecovered. The handoff between form fill and booked meeting is where pipeline quietly dies.\r\n\r\nrift fixes that. One system for the full inbound lifecycle:\r\n> Capture. Custom web forms that collect and qualify leads in real time.\r\n> Route. Instant validation, enrichment, and assignment to the right rep.\r\n> Schedule. Top prospects get the best calendar slots, matched to real availability.\r\n> Recover. No-shows and ghosted leads are automatically re-engaged.\r\n\r\nrift is built by growth engineers who ran inbound at high-velocity B2B companies and got tired of watching pipeline fall through the cracks.\r\n\r\nrift is the system we wished existed — opinionated, fast, and wired into the tools sales teams already use: HubSpot, Apollo, Google Calendar, Gmail, Slack, Zoom, Stripe, and more.\r\n\r\nBacked by Y Combinator (W23) and Sequoia Capital.\r\n\r\nnever lose an inbound lead → rift.com\r\n",
+    "one_liner": "B2B lead routing made simple",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1676577207,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "27679",
+    "_highlightResult": {
+      "name": {
+        "value": "rift",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Archipelago",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Rift",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://rift.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "rift is B2B lead routing made simple.\r\n\r\nInbound workflows leak revenue at every step. Routing is manual. Calendar links are generic. No-shows go unrecovered. The handoff between form fill and booked meeting is where pipeline quietly dies.\r\n\r\nrift fixes that. One system for the full inbound lifecycle:\r\n> Capture. Custom web forms that collect and qualify leads in real time.\r\n> Route. Instant validation, enrichment, and assignment to the right rep.\r\n> Schedule. Top prospects get the best calendar slots, matched to real availability.\r\n> Recover. No-shows and ghosted leads are automatically re-engaged.\r\n\r\nrift is built by growth engineers who ran inbound at high-velocity B2B companies and got tired of watching pipeline fall through the cracks.\r\n\r\nrift is the system we wished existed — opinionated, fast, and wired into the tools sales teams already use: HubSpot, Apollo, Google Calendar, Gmail, Slack, Zoom, Stripe, and more.\r\n\r\nBacked by Y Combinator (W23) and Sequoia Capital.\r\n\r\nnever lose an inbound lead → rift.com\r\n",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "B2B lead routing made simple",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Sales",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Sales",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27672,
     "name": "Blyss",
     "slug": "blyss",
@@ -14600,6 +14809,92 @@
         },
         {
           "value": "Engineering, Product and Design",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 25967,
+    "name": "ngrow.ai",
+    "slug": "ngrow-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a19487f9d6235e1c02dd412720eb77f6dbaa38bd.png",
+    "website": "http://ngrow.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI-driven push marketing tool for mobile apps, that can be integrated in hours, without any code writing.\r\n\r\nnGrow connects to behavioral data from analytical systems like Amplitude, Google Firebase, Mixpanel etc. and allows to setup auto push campaigns with an hours.\r\n\r\nIt's as simple as running  Google or Facebook but in push notifications channel. \r\nnGrow.ai customers usually got their up to 30% incremental Revenue lift.\r\n\r\nWe got Amplitude COO and ex-Google advisors on board\r\n",
+    "one_liner": "Low-code SaaS for marketing in push notifications",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1642489538,
+    "tags": [
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "25967",
+    "_highlightResult": {
+      "name": {
+        "value": "ngrow.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "http://ngrow.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "AI-driven push marketing tool for mobile apps, that can be integrated in hours, without any code writing.\r\n\r\nnGrow connects to behavioral data from analytical systems like Amplitude, Google Firebase, Mixpanel etc. and allows to setup auto push campaigns with an hours.\r\n\r\nIt's as simple as running  Google or Facebook but in push notifications channel. \r\nnGrow.ai customers usually got their up to 30% incremental Revenue lift.\r\n\r\nWe got Amplitude COO and ex-Google advisors on board\r\n",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Low-code SaaS for marketing in push notifications",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Marketing",
           "matchLevel": "none",
           "matchedWords": []
         }
@@ -50384,6 +50679,113 @@
     }
   },
   {
+    "id": 11926,
+    "name": "Parker",
+    "slug": "parker",
+    "former_names": [
+      "Woke",
+      "Jamabla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9461ed7e5093ac18bab6ae2cb43de29136be3a7.png",
+    "website": "https://www.getparker.com",
+    "all_locations": "New York City, NY, USA; San Francisco, CA, USA",
+    "long_description": "Parker is a digital bank.",
+    "one_liner": "Parker is a digital bank.",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1622755385,
+    "tags": [
+      "Banking as a Service",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Inactive",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "11926",
+    "_highlightResult": {
+      "name": {
+        "value": "Parker",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Woke",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Jamabla",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.getparker.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "New York City, NY, USA; San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Parker is a digital bank.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Parker is a digital bank.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Banking as a Service",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Banking and Exchange",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 11923,
     "name": "Allo",
     "slug": "allo",
@@ -56113,7 +56515,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
