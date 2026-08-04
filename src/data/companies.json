@@ -33115,6 +33115,125 @@
     }
   },
   {
+    "id": 22184,
+    "name": "Here",
+    "slug": "here",
+    "former_names": [
+      "Here",
+      "Dumps"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4051bac362928f79cd906235f06326723eacc875.png",
+    "website": "https://here.fm",
+    "all_locations": "New York City, NY, USA",
+    "long_description": "Here is where friends feel close even if they're worlds away.  We do this by providing an infinite and interactive canvas where friends watch, play, decorate, draw and hang together, all powered by our own real-time video and voice technology.\r\n",
+    "one_liner": "Where friends watch, play and hang together in digital rooms",
+    "team_size": 9,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1598328674,
+    "tags": [
+      "Consumer",
+      "Messaging",
+      "Social",
+      "Social Network"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Inactive",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "22184",
+    "_highlightResult": {
+      "name": {
+        "value": "Here",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Here",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Dumps",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://here.fm",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "New York City, NY, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Here is where friends feel close even if they're worlds away.  We do this by providing an infinite and interactive canvas where friends watch, play, decorate, draw and hang together, all powered by our own real-time video and voice technology.\r\n",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Where friends watch, play and hang together in digital rooms",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Messaging",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Social",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Social Network",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "Consumer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Social",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 22151,
     "name": "AI.Fashion",
     "slug": "ai-fashion",
@@ -72049,7 +72168,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fully-automated Quantitative MR Image Analysis.\r\n\r\nOur software converts a user’s full body magnetic resonance scan (MRI) into a 3D virtual model of their body in the cloud. The model is annotated with explanatory information so they can easily explore and learn about different parts of their body.\r\n\r\nKlarismo is the only provider of MR analytics that can offer truly scalable analysis for large data collections. Cloud-based processing allows 1000s of acquisitions to be analyzed simultaneously. Machine learning techniques utilize Klarismo’s proprietary collection of labelled MRI data and eliminate the need for manual processing to produce precise volumetric measurements.\r\n\r\nKlarismo specializes in the detailed analysis of body composition, including volumetric measurements of different muscle and fat tissues, from whole-body acquisitions.",
     "one_liner": "Klarismo turns your body into an interactive experience. We built a…",
-    "team_size": 1,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1430435618,
