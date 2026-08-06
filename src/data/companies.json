@@ -4498,6 +4498,143 @@
     }
   },
   {
+    "id": 29118,
+    "name": "Structured Labs",
+    "slug": "structured-labs",
+    "former_names": [
+      "Structured",
+      "Structured Labs",
+      "Preswald",
+      "Structured Labs",
+      "Wadium",
+      "Waldium"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8dd08fd61491d9efffabb3dff787320791e2421.png",
+    "website": "https://www.structuredlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
+    "one_liner": "The publishing layer for the agentic internet",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1686619959,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "29118",
+    "_highlightResult": {
+      "name": {
+        "value": "Structured Labs",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Structured",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Structured Labs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Preswald",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Structured Labs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Wadium",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Waldium",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://www.structuredlabs.com/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "The publishing layer for the agentic internet",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Developer Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Search",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Engineering, Product and Design",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 29107,
     "name": "Saatvy",
     "slug": "saatvy",
@@ -7880,6 +8017,113 @@
         },
         {
           "value": "Analytics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
+    "id": 28045,
+    "name": "Peeba",
+    "slug": "peeba",
+    "former_names": [
+      "Kingmaker Limited"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1201a58c5de47a287ab4ea6a262a2598a1e6f3af.png",
+    "website": "http://peeba.com/",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
+    "long_description": "Peeba is a one-stop B2B wholesale marketplace that is changing the way retailers across Asia purchase inventory. We’ve streamlined the buying process, making it easier than ever for independent retailers to buy top-selling products from unique brands for their stores.",
+    "one_liner": "Risk-free wholesale for retailers across Southeast Asia",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1674343263,
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "B2B",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Indonesia",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "28045",
+    "_highlightResult": {
+      "name": {
+        "value": "Peeba",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "Kingmaker Limited",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "http://peeba.com/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Jakarta, Jakarta, Indonesia",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Peeba is a one-stop B2B wholesale marketplace that is changing the way retailers across Asia purchase inventory. We’ve streamlined the buying process, making it easier than ever for independent retailers to buy top-selling products from unique brands for their stores.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Risk-free wholesale for retailers across Southeast Asia",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Marketplace",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Retail",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
           "matchLevel": "none",
           "matchedWords": []
         }
