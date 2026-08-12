@@ -26130,6 +26130,173 @@
     }
   },
   {
+    "id": 23629,
+    "name": "AXAR AI",
+    "slug": "axar-ai",
+    "former_names": [
+      "TimeTackle",
+      "Tackle",
+      "Hightime",
+      "Hightime AI",
+      "Tackle",
+      "Hightime AI",
+      "Tackle",
+      "AXAR AI",
+      "Tackle",
+      "AXAR AI",
+      "Tackle",
+      "AXAR AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "How great teams ship with AI",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1616475313,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "23629",
+    "_highlightResult": {
+      "name": {
+        "value": "AXAR AI",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "TimeTackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Hightime",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Hightime AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Hightime AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AXAR AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AXAR AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Tackle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AXAR AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "How great teams ship with AI",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Developer Tools",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 23521,
     "name": "MindPortal",
     "slug": "mindportal",
