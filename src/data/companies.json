@@ -16827,6 +16827,104 @@
     }
   },
   {
+    "id": 25692,
+    "name": "Livedocs",
+    "slug": "livedocs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c55378b1978172dcaae2ec40f66f80a955ff6.png",
+    "website": "https://livedocs.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Mix Python, SQL, charts, and dynamic text in a fast, shareable, collaborative medium. Build and share data-rich docs and apps your team will love",
+    "one_liner": "A New Kind of Notebook for Data Storytelling",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1645977565,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "25692",
+    "_highlightResult": {
+      "name": {
+        "value": "Livedocs",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://livedocs.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "San Francisco, CA, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Mix Python, SQL, charts, and dynamic text in a fast, shareable, collaborative medium. Build and share data-rich docs and apps your team will love",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "A New Kind of Notebook for Data Storytelling",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Productivity",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Analytics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Analytics",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 25678,
     "name": "Botin",
     "slug": "botin",
