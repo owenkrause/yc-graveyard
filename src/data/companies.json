@@ -9243,6 +9243,116 @@
     }
   },
   {
+    "id": 27818,
+    "name": "Gluetrail",
+    "slug": "gluetrail",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/655e9f2acbaad108c6e7539ecb81f7a1ce60e8cc.png",
+    "website": "https://www.gluetrail.com",
+    "all_locations": "Paris, Île-de-France, France; Remote",
+    "long_description": "Gluetrail is a chrome extension that allows you to create support/training/marketing assets 10x faster, just from a screen and audio recording. These assets allow you to drive software or process adoption & awareness among prospects, customers or teammates.  \r\n\r\nFrom one single recording, Gluetrail leverages your screen+clicks+audio transcript, and AI, to:\r\n- automatically create step-by-step articles with screenshots and videos\r\n- adapt the content for & publish it on 3rd party platforms in 1 click: internal or external knowledge bases (Notion, Confluence, Intercom, Zendesk...), community platforms and social media (linkedin, youtube, twitter, discourse...) ",
+    "one_liner": "Create step by step articles with screenshots and videos 10x faster",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1670419850,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Sales Enablement",
+      "Marketing",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "objectID": "27818",
+    "_highlightResult": {
+      "name": {
+        "value": "Gluetrail",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://www.gluetrail.com",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Paris, Île-de-France, France; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "Gluetrail is a chrome extension that allows you to create support/training/marketing assets 10x faster, just from a screen and audio recording. These assets allow you to drive software or process adoption & awareness among prospects, customers or teammates.  \r\n\r\nFrom one single recording, Gluetrail leverages your screen+clicks+audio transcript, and AI, to:\r\n- automatically create step-by-step articles with screenshots and videos\r\n- adapt the content for & publish it on 3rd party platforms in 1 click: internal or external knowledge bases (Notion, Confluence, Intercom, Zendesk...), community platforms and social media (linkedin, youtube, twitter, discourse...) ",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Create step by step articles with screenshots and videos 10x faster",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Artificial Intelligence",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Productivity",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Sales Enablement",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Marketing",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Customer Support",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Marketing",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 27816,
     "name": "OpenSight",
     "slug": "opensight",
@@ -66859,14 +66969,17 @@
     "website": "http://www.airohealth.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Airo Health is a fast growing Y Combinator-funded company building a next generation armband that has changed people think about their health. We are a multidisciplinary team that brings together expertise in biomedical engineering, user experience, artificial intelligence, software engineering, hardware engineering, and manufacturing.\r\n\r\nMental Health, an issue often neglected, directly affects your overall health, quality of life, and productivity. Airo is your companion through the stressful times. It sits on your arm and automatically tracks when you’re getting anxious and recommends easy tweaks that reduce stress.",
-    "one_liner": "Airo is an AI to passively track and manage your mental health. ",
+    "one_liner": "Airo is an AI wearable to track mental health.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1461643819,
     "tags": [
       "Artificial Intelligence",
-      "Mental Health Tech"
+      "Hard Tech",
+      "Hardware",
+      "Mental Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -66910,7 +67023,7 @@
         "matchedWords": []
       },
       "one_liner": {
-        "value": "Airo is an AI to passively track and manage your mental health. ",
+        "value": "Airo is an AI wearable to track mental health.",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -66921,7 +67034,22 @@
           "matchedWords": []
         },
         {
+          "value": "Hard Tech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Hardware",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
           "value": "Mental Health Tech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "AI",
           "matchLevel": "none",
           "matchedWords": []
         }
