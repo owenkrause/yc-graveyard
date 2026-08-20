@@ -50492,6 +50492,102 @@
     }
   },
   {
+    "id": 12020,
+    "name": "Bensen",
+    "slug": "bensen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7af36cf816e85779580f55b3d6110fd7defe50.png",
+    "website": "http://www.bensen.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "",
+    "one_liner": "Online and phone ordering for restaurant takeout and delivery",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1541529297,
+    "tags": [
+      "Marketplace",
+      "Delivery",
+      "Food & Beverage"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Inactive",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "12020",
+    "_highlightResult": {
+      "name": {
+        "value": "Bensen",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "http://www.bensen.ai",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Boston, MA, USA",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Online and phone ordering for restaurant takeout and delivery",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Marketplace",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Delivery",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Food & Beverage",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Engineering, Product and Design",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 12015,
     "name": "Docucharm",
     "slug": "docucharm",
