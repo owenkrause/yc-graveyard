@@ -69321,6 +69321,113 @@
     }
   },
   {
+    "id": 1183,
+    "name": "NuCypher (aka Threshold Network)",
+    "slug": "nucypher-aka-threshold-network",
+    "former_names": [
+      "ZeroDB",
+      "NuCypher",
+      "Threshold"
+    ],
+    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "website": "https://threshold.network/",
+    "all_locations": "Austin, TX, USA; Remote",
+    "long_description": "NuCypher is one of two founding teams of the Threshold Network, which hosts tBTC, TACo, Random Beacon & tUSD. Since 2017, NuCypher has pioneered cryptographic primitives for end-to-end encrypted data sharing, including Proxy Re-Encryption and Threshold Access Control (TACo), novel cryptoeconomic mechanisms (e.g. Stable Yield). and original network/governance architectures (including a historic on-chain merger). TACo, our flagship product, is running on over 120 nodes with ~$80m of associated economic security, has paying adopting developers and major infrastructure partners (Ceramic, Irys, Textile, Unlock), and has been decentralized from genesis (mainnet launch in Jan 2024).",
+    "one_liner": "Network for decentralized threshold cryptography and end-to-end…",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1461182717,
+    "tags": [
+      "Cryptography",
+      "Privacy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2016",
+    "status": "Inactive",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "1183",
+    "_highlightResult": {
+      "name": {
+        "value": "NuCypher (aka Threshold Network)",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "former_names": [
+        {
+          "value": "ZeroDB",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "NuCypher",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Threshold",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "website": {
+        "value": "https://threshold.network/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Austin, TX, USA; Remote",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "NuCypher is one of two founding teams of the Threshold Network, which hosts tBTC, TACo, Random Beacon & tUSD. Since 2017, NuCypher has pioneered cryptographic primitives for end-to-end encrypted data sharing, including Proxy Re-Encryption and Threshold Access Control (TACo), novel cryptoeconomic mechanisms (e.g. Stable Yield). and original network/governance architectures (including a historic on-chain merger). TACo, our flagship product, is running on over 120 nodes with ~$80m of associated economic security, has paying adopting developers and major infrastructure partners (Ceramic, Irys, Textile, Unlock), and has been decentralized from genesis (mainnet launch in Jan 2024).",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "Network for decentralized threshold cryptography and end-to-end…",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "Cryptography",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Privacy",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "B2B",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 1180,
     "name": "Mindori",
     "slug": "mindori",
