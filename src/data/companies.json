@@ -25727,6 +25727,98 @@
     }
   },
   {
+    "id": 23959,
+    "name": "TAG",
+    "slug": "tag",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dbba25a74200259e0d969df993848635b9e309.png",
+    "website": "https://tagme.pk/",
+    "all_locations": "Islamabad, Islamabad Capital Territory, Pakistan",
+    "long_description": "TAG is setting new standards and changing the way Pakistan banks by building a digital bank for the masses, with an aim to encompass the entire financial life of users, from basic banking such as bank account and Visa Debit card to employer payrolls, salary advances, savings, and neo-brokerage in future.",
+    "one_liner": "TAG is the First Digital Bank (Chime/Revolut/N26) for Pakistan",
+    "team_size": 36,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1626881984,
+    "tags": [
+      "FinOps",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Inactive",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "Pakistan",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "objectID": "23959",
+    "_highlightResult": {
+      "name": {
+        "value": "TAG",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "website": {
+        "value": "https://tagme.pk/",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "all_locations": {
+        "value": "Islamabad, Islamabad Capital Territory, Pakistan",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "long_description": {
+        "value": "TAG is setting new standards and changing the way Pakistan banks by building a digital bank for the masses, with an aim to encompass the entire financial life of users, from basic banking such as bank account and Visa Debit card to employer payrolls, salary advances, savings, and neo-brokerage in future.",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "one_liner": {
+        "value": "TAG is the First Digital Bank (Chime/Revolut/N26) for Pakistan",
+        "matchLevel": "none",
+        "matchedWords": []
+      },
+      "tags": [
+        {
+          "value": "FinOps",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ],
+      "industries": [
+        {
+          "value": "Fintech",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        {
+          "value": "Banking and Exchange",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      ]
+    }
+  },
+  {
     "id": 23861,
     "name": "Wabi",
     "slug": "wabi",
@@ -26549,12 +26641,12 @@
       "Tackle",
       "AXAR AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52cb3520d9bab156b57aed7f3c76a564ce21c4cb.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c6547ecb9fa107a828426f050dc9ff06b380355.png",
+    "website": "https://www.axar.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "How great teams ship with AI",
-    "team_size": 4,
+    "one_liner": "Multi-agent orchestration platform",
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1616475313,
@@ -26653,7 +26745,7 @@
         }
       ],
       "website": {
-        "value": "",
+        "value": "https://www.axar.ai/",
         "matchLevel": "none",
         "matchedWords": []
       },
@@ -26668,7 +26760,7 @@
         "matchedWords": []
       },
       "one_liner": {
-        "value": "How great teams ship with AI",
+        "value": "Multi-agent orchestration platform",
         "matchLevel": "none",
         "matchedWords": []
       },
